@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Perpustakaan Digital",
+  "description": "Sistem manajemen perpustakaan sekolah digital dengan fitur peminjaman, pengelolaan buku, dan dashboard admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
